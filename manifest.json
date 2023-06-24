@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "12ft.io Proxy",
+    "name": "12ft.io: Get Premium Content Without Paywalls!",
     "description": "Bypass article paywalls with a single click using 12ft.io.",
-    "version": "1.0",
+    "version": "1.1",
     "background": {
       "service_worker": "background.js"
     },
